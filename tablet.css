@@ -1,0 +1,19 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .nav-text {
+    display: none;
+  }
+
+  /*  phan 4 */
+
+  .box-border {
+    margin-top: 20px;
+  }
+  /* digital table */
+  .digital-icon {
+    text-align: center;
+  }
+  .border-cv {
+    border-right: none;
+    border-bottom: 15px solid blue;
+  }
+}
